@@ -29,10 +29,9 @@ app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, './public/index.html'))
 });
 
-
 app.get("/exercise", (req, res) => {
   res.sendFile(path.join(__dirname, './public/exercise.html'))
-}); 
+});
 
 //API Routes
 app.get('/api/workouts', (req, res) => {
@@ -46,8 +45,6 @@ app.get('/api/workouts', (req, res) => {
   ]).then(dbWorkouts => {
     res.json(dbWorkouts)
   })
-
-
 })
 
 app.get('/api/workouts/range', (req, res) => {
