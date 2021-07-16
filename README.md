@@ -59,5 +59,5 @@ SO THAT I can stay on top of my workout goals.
 
 ## Links
 
-Repository: https://github.com/harviator/tech-blog \
-Deployed: https://frozen-thicket-27798.herokuapp.com/
+Repository: https://github.com/harviator/workout-tracker \
+Deployed: https://radiant-gorge-41427.herokuapp.com/?id=60f0cac4efd2010015e1372c
