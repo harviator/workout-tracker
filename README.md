@@ -2,10 +2,6 @@
 
 # Workout Tracker
 
-## Background
-
-This was a project for the UofT Bootcamp.
-
 ## Table of Contents
 [Description](#description)\
 [Motivation](#motivation)\
@@ -47,11 +43,10 @@ SO THAT I can stay on top of my workout goals.
 
 ## Process
 
-* For this project we were given some starter code.
+* This project had some starter code.
 * Based on the start code I created the workout model and then the routes from there.
 * The biggest challenges for this project was getting use to working with Mongoose and getting the routes set up.
-* The successes for this project was getting a better getting more exposure to working with Express and Mongoose to help solidify oure understanding of those technologies.
-* Credit to my tutor, TA's, and classmates for their help.
+* The successes for this project was getting a better getting more exposure to working with Express and Mongoose to help solidify my understanding of those technologies.
 
 ## Screen Shot
 
