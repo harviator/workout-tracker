@@ -55,4 +55,4 @@ SO THAT I can stay on top of my workout goals.
 ## Links
 
 Repository: https://github.com/harviator/workout-tracker \
-Deployed: https://radiant-gorge-41427.herokuapp.com/?id=60f0cac4efd2010015e1372c
+Deployed: https://workout-tracker-alpha.vercel.app/
